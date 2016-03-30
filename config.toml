@@ -40,7 +40,7 @@ theme = "hugo-creative-theme"
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "rabble.consulting"
+		slogan     = "innovation for good"
 		subtitle   = "Causing trouble and building the future. <br><br>At the cutting edge of changing the world with technology <br><br> Lean & Agile Transformation"
 		buttonText = "Join the movement!"
 
@@ -73,7 +73,7 @@ theme = "hugo-creative-theme"
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
+            title = "Love"
             description = "Passion and love are important to the work we do. It's not enough to make money."
 
 
