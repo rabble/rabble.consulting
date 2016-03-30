@@ -85,8 +85,8 @@ theme = "hugo-creative-theme"
         buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Get in touch"
+#	[params.aside]
+#		headline = "Get in touch"
 
 #		[params.aside.button]
 #			text = "Download now"
